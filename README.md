@@ -7,3 +7,4 @@ Webpage linking my tutorial subjects to my repos
 "Add repos to no.28 to Repos SSheet- Next job amend index file!"
 "Tidy first two links and publish in github"
 "Add repos to no 35 Am finding older repos with missing vscode folders"
+"All current repos (58) added to Repos SSheet"
