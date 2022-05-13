@@ -8,3 +8,4 @@ Webpage linking my tutorial subjects to my repos
 "Tidy first two links and publish in github"
 "Add repos to no 35 Am finding older repos with missing vscode folders"
 "All current repos (58) added to Repos SSheet"
+"Add 1training-code, google-homepage, 2google-homep, git-test1 to Repo Links" 
