@@ -10,3 +10,4 @@ Webpage linking my tutorial subjects to my repos
 "All current repos (58) added to Repos SSheet"
 "Add 1training-code, google-homepage, 2google-homep, git-test1 to Repo Links" 
 "Add vscode folder name each repo link, also add two more repos" 
+"Add links to no44 repo, add text 'let's go to San Fransisco...' to each Lang link page"
