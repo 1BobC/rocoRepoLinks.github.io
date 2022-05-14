@@ -11,3 +11,4 @@ Webpage linking my tutorial subjects to my repos
 "Add 1training-code, google-homepage, 2google-homep, git-test1 to Repo Links" 
 "Add vscode folder name each repo link, also add two more repos" 
 "Add links to no44 repo, add text 'let's go to San Fransisco...' to each Lang link page"
+"Add CSS to index and updates to no37 repo"
